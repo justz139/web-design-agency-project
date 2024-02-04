@@ -58,5 +58,10 @@ div{
     object-fit: cover;
 
   }
+    h1{
+    text-align: left;
+    font-size: xx-large;
+  }
+
 
 }
