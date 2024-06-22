@@ -63,7 +63,6 @@ h1 {
 
 }
 .right > p {
-  display:flex;
   background-color: lavender;
   padding: 10px;
   border-radius: 10px;
